@@ -1,0 +1,19 @@
+h1 {
+    font-family: cursive;
+    font-size: 300%;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 250%;
+    padding: 0px 0px 0px 50px;
+}
+
+:root {
+  --bs-primary: #85B27F5;
+  --bs-primary-rgb: 139, 39, 245;
+}
+
+a {
+  color: rgb(140, 32, 255);
+}
