@@ -1,2 +1,2 @@
 # Portfolio-Site
-Go to [This Link]([https://example.com](https://whitnlan000.github.io/Portfolio-Site))
+Go To [This Link](https://whitnlan000.github.io/Portfolio-Site)
